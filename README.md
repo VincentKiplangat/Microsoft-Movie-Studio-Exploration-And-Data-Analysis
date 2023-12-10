@@ -43,6 +43,9 @@ The imdb dataset contained 8 tables:
 |7|principals|
 |8|writers|
 
+The internal structure is as shown below:
+![alt text](imdb.jpg)
+
 
 
 
