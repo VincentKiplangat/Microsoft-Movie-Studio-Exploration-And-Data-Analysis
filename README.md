@@ -77,7 +77,7 @@ The imdb dataset contained 8 tables:
 5.	There is a positive correlation between Domestic and Foreign Gross. An increase in domestic gross also replicates in an increase in Foreign gross.
 
 
-    #### 5b. Recommendations
+#### 5b. Recommendations
     
 1.	The company should invest in Comedy, a little more emphasis in Adventure, Drama and Sci-Fi combinations.
 
