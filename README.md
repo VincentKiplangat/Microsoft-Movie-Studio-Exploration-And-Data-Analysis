@@ -1,5 +1,5 @@
 # Microsoft-Movie-Studio-Exploration-And-Data-Analysis
-
+![alt text](microsoft.png)
 ### a) Introduction 
 Microsoft is venturing into the entertainment industry by establishing a new movie studio to create original video content. The company recognizes the success of big players in the industry and aims to capitalize on this trend. However, lacking experience in movie production, Microsoft needs insights into the current landscape of successful films at the box office. The goal is to inform strategic decisions regarding the types of films that will resonate well with audiences and maximize profitability.
 
