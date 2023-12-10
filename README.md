@@ -16,7 +16,7 @@ To empower Microsoft's new movie studio with actionable insights into the dynami
 
 3. Position for success by strategically positioning the new movie studio to create content that not only achieves financial success but also resonates with a diverse audience, fostering long-term growth and success in the entertainment market. 
 
-### e) Experimental Design
+### e) Notebook Structure
 1. Data Collection
 2. Read and check the data
 3. Cleaning the data
@@ -43,6 +43,24 @@ The imdb dataset contained 8 tables:
 |7|principals|
 |8|writers|
 
+
+
+
+## Methodology
+### 1. Data Collection:
+   - The project initiated by acquiring the IMDb dataset from reputable sources, ensuring a solid foundation for subsequent analyses. The emphasis was placed on securing a comprehensive and accurate dataset to yield meaningful insights throughout the project's lifecycle.
+
+### 2. Read and Check the Data:
+   - The dataset was efficiently loaded into the notebook, and the initial assessment was performed meticulously. The project explored the dataset's structure and format through the examination of its initial rows. Rigorous checks for missing values and evaluations of data types were executed to guarantee consistency.
+
+### 3. Cleaning the Data:
+   - The project executed a systematic cleaning process to refine the dataset's quality. Addressing missing values, eliminating duplicates, and resolving any inconsistencies were part of the initiative. The dataset was transformed into a polished state, ensuring data integrity and reliability for downstream analyses.
+
+### 4. Exploratory Data Analysis (EDA):
+   - In-depth exploration of the dataset was conducted using statistical measures, visualizations, and aggregation techniques. The project identified patterns, correlations, and trends within the movie data. The analysis focused on genres, writers, and directors, providing actionable insights for strategic decision-making.
+
+### 5. Conclusions and Recommendations:
+   - The project summarized its findings from the exploratory analysis, offering a comprehensive overview of successful genres, prominent writers, and influential directors within the movie industry. Recommendations were formulated based on these insights, aligning with the project's objectives. Key considerations and potential growth areas for Microsoft's new movie studio were addressed, concluding the notebook with actionable insights to guide strategic decisions in movie production.
 
 
 
