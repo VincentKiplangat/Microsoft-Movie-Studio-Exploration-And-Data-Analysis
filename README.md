@@ -64,7 +64,7 @@ The imdb dataset contained 8 tables:
 
 
 
-    ### 5a. Conclusions
+###      5a. Conclusions
 1.	The most watched/streamed genre is comedy in terms of occurrence but a combination of Adventure, Drama and Sci-Fi does very well in terms of popularity and gross
 
 2.	There is a positive correlation between runtime and reap gross, therefore an increase in runtime gives an increase in gross income, however most of the runtimes fall between the 90 and 150 minute
@@ -76,7 +76,7 @@ The imdb dataset contained 8 tables:
 5.	There is a positive correlation between Domestic and Foreign Gross. An increase in domestic gross also replicates in an increase in Foreign gross.
 
 
-    ### 5b. Recommendations
+###     5b. Recommendations
 1.	The company should invest in Comedy, a little more emphasis in Adventure, Drama and Sci-Fi combinations.
 
 2.	The company should invest in movies runtime, with an optimum of 90 to 150 minutes.
