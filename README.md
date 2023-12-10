@@ -48,13 +48,13 @@ The imdb dataset contained 8 tables:
 
 ## Methodology
 ### 1. Data Collection:
-   - The project initiated by acquiring the IMDb dataset from reputable sources, ensuring a solid foundation for subsequent analyses. The emphasis was placed on securing a comprehensive and accurate dataset to yield meaningful insights throughout the project's lifecycle.
+   - The project initiated by acquiring the datasets from reputable sources, ensuring a solid foundation for subsequent analyses. The emphasis was placed on securing a comprehensive and accurate dataset to yield meaningful insights throughout the project's lifecycle.
 
 ### 2. Read and Check the Data:
-   - The dataset was efficiently loaded into the notebook, and the initial assessment was performed meticulously. The project explored the dataset's structure and format through the examination of its initial rows. Rigorous checks for missing values and evaluations of data types were executed to guarantee consistency.
+   - The datasets were efficiently loaded into the notebook, and the initial assessment was performed meticulously. The project explored the datasets' structure and format through the examination of its initial rows. Rigorous checks for missing values and evaluations of data types were executed to guarantee consistency.
 
 ### 3. Cleaning the Data:
-   - The project executed a systematic cleaning process to refine the dataset's quality. Addressing missing values, eliminating duplicates, and resolving any inconsistencies were part of the initiative. The dataset was transformed into a polished state, ensuring data integrity and reliability for downstream analyses.
+   - The project executed a systematic cleaning process to refine the datasets' quality. Addressing missing values, eliminating duplicates, and resolving any inconsistencies were part of the initiative. The dataset was transformed into a polished state, ensuring data integrity and reliability for downstream analyses.
 
 ### 4. Exploratory Data Analysis (EDA):
    - In-depth exploration of the dataset was conducted using statistical measures, visualizations, and aggregation techniques. The project identified patterns, correlations, and trends within the movie data. The analysis focused on genres, writers, and directors, providing actionable insights for strategic decision-making.
