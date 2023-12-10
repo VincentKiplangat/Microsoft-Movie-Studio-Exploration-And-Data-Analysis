@@ -64,6 +64,7 @@ The imdb dataset contained 8 tables:
 
 
 
+    
     ### 5a. Conclusions
 1.	The most watched/streamed genre is comedy in terms of occurrence but a combination of Adventure, Drama and Sci-Fi does very well in terms of popularity and gross
 
