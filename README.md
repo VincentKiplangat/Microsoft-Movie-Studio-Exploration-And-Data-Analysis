@@ -1,5 +1,7 @@
 # Microsoft-Movie-Studio-Exploration-And-Data-Analysis
 ![alt text](microsoft.png)
+TO GET TO VIEW THE NON-TECHNICAL SLIDES JUST CLICK THE LINK BELOW:
+https://www.canva.com/design/DAF2kccMX3I/-4vOQj2a3Wmzd5BVHzSoTg/edit?utm_content=DAF2kccMX3I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ### a) Introduction 
 Microsoft is venturing into the entertainment industry by establishing a new movie studio to create original video content. The company recognizes the success of big players in the industry and aims to capitalize on this trend. However, lacking experience in movie production, Microsoft needs insights into the current landscape of successful films at the box office. The goal is to inform strategic decisions regarding the types of films that will resonate well with audiences and maximize profitability.
 
